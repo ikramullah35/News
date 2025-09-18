@@ -1,10 +1,11 @@
 import React from 'react'
-import Counter from './Counter'
+import News from './News'
+
 
 const App = () => {
   return (
     <>
-    <Counter/>    
+     <News/>  
     
     </>
   )
